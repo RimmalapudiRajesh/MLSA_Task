@@ -33,8 +33,8 @@ const projectList = [
   {
     title: "Online Food Order Through WhatsApp Automation Bot",
     description:
-      "Deployed a Python powered WhatsApp Bot, integrated with the Twilio API and MongoDB for seamless data storage retrieval; optimized customer inquiries, resulting in a 50% reduction in response time and a 18% increase in customer satisfaction ratings.Conducted pre- and post-implementation surveys to assess customer satisfaction levels, achieving a remarkable 10% improvement, while also analyzing customer-bot interactions, leading to a significant 40% boost in engagement and interaction frequency.",
-    url: "https://github.com/RimmalapudiRajesh/automate-whatsapp.git",
+      "It presents a novel solution for food delivery through a WhatsApp Automation Bot. Designed to address the limitations of existing food delivery apps, the bot simplifies the process of ordering food from renowned restaurants with a city. Its primary advantage lies in its accessibility for individuals with limited digital literacy. By leveraging the familiarity of WhatsApp, this solution facilitates convenient food orders and enhances the overall dining experience.This application is particularly valuable for uneducated individuals, making food ordering more accessible and user-friendly for a wider audience.",
+    url: "https://www.irjet.net/archives/V10/i1/IRJET-V10I1116.pdf",
   },
   {
     title: "Restaurant Review",
