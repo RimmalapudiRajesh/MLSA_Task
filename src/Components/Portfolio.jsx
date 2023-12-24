@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ai-generated.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "human and robert image face to face";
 
 /**
  * Project list
@@ -31,29 +31,30 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Online Food Order Through WhatsApp Automation Bot",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Deployed a Python powered WhatsApp Bot, integrated with the Twilio API and MongoDB for seamless data storage retrieval; optimized customer inquiries, resulting in a 50% reduction in response time and a 18% increase in customer satisfaction ratings.Conducted pre- and post-implementation surveys to assess customer satisfaction levels, achieving a remarkable 10% improvement, while also analyzing customer-bot interactions, leading to a significant 40% boost in engagement and interaction frequency.",
+    url: "https://github.com/RimmalapudiRajesh/automate-whatsapp.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Restaurant Review",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Based on the Restaurant Reviews we can determine the which is Positive and Negitive Reviews",
+    url: "https://github.com/RimmalapudiRajesh/NLP-Project-Restaurant-Reviews.git",
   },
   {
-    title: "My Resume Site",
+    title: "Wireless Sound Control",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Orchestrated a groundbreaking project that harnessed wireless sound control through finger sign gestures, achieving a remarkable 15% increase in user satisfaction compared to traditional volume adjustments.",
+    url: "https://github.com/RimmalapudiRajesh/WirelessSooundControl.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Caption Generated ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Based on the Given image it can generate the brief caption about the picture.",
+    url: "https://github.com/RimmalapudiRajesh/Caption-Generator-Project.git",
   },
+  
 ];
 
 const Portfolio = () => {

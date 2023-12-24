@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/winter_image.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "winter season beautiful background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a CS student studying at Vasireddy Venkatadri Institute of Technology. I am passionate about solving problems in new creative ways to drive innovation and I enjoy creating unique and simplistic user frontend interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python, Java, C Programmer",
+  "Frontend Web Developement using React",
+  "AWS Cloud Developer",
+  "Figma Design",
+  "Researcher",
+  "Team Leader",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " I thrived in three impactful AI & ML internships at AICTE, Teachnook, and 1stop, refining skills in Python, TensorFlow, PyTorch, data preprocessing, and model evaluation. I am committed to tech innovation, excelling in collaborative teams and problem-solving. Published researcher with Online Food Orders Through WhatsApp Automation Bot. A dedicated ML researcher under a PhD professor deployed a Python-powered WhatsApp Bot, reducing response time by 50%. Leading EventHub Website team, showcasing global events and job openings.Diverse skill sets include Python, Java, TensorFlow, and Django, backed by certifications from Coursera, Udemy, Wipro, AWS, Google, and Microsoft. Strong soft skills in time management, teamwork, adaptability and leadership. Merit scholarship recipient from the Andhra Pradesh Government. Active in social welfare camps and sports.";
 
 const About = () => {
   return (
