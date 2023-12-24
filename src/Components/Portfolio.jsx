@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Restaurant Review",
     description:
-      "Based on the Restaurant Reviews we can determine the which is Positive and Negitive Reviews",
+      "Based on the Restaurant Reviews we can determine the which is Positive and Negitive Reviews.Spearheaded a comprehensive Natural Language Processing (NLP) initiative by contributing to sentiment analysis of restaurant reviews, resulting ina 95% accuracy rate in sentiment classification.",
     url: "https://github.com/RimmalapudiRajesh/NLP-Project-Restaurant-Reviews.git",
   },
   {
