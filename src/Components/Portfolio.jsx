@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "Caption Generated ",
     description:
-      "Based on the Given image it can generate the brief caption about the picture.",
+      "Based on the given image it can generate the brief caption about the picture.",
     url: "https://github.com/RimmalapudiRajesh/Caption-Generator-Project.git",
   },
   
